@@ -52,17 +52,17 @@ text-align: center;
         margin: 0;
     }
     .box{
-        font-size: 5px;
-        height: 10px;
-        width: 10px; 
+        font-size: 1px;
+        height: 2px;
+        width: 2px; 
     }
     .container{
-        height: 195px;
-        width: 195px;  
+        height: 250px;
+        width: 250px;  
        display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 1vmin;
-    background-color: blue;    }
+    background-color: yellow;    }
 }
