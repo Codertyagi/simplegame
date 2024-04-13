@@ -58,11 +58,6 @@ text-align: center;
     }
     .container{
         height: 185px;
-        width: 185px;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-        gap: 1vmin;  
+        width: 185px;  
     }
 }
