@@ -16,6 +16,7 @@ text-align: center;
     justify-content: center;
     align-items: center;
     gap: 1.5vmin;
+    background-color: blue;
 }
 .box{
     font-size: 60px;
